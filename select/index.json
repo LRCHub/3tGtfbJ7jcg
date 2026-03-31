@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ライフ",
+  "base_artist": "MILGRAM ユノ (CV: 相坂優歌)",
+  "createdAt": "2026-03-31T11:08:50.056115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リヴ・ライフ・ラウド",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/01_リヴ・ライフ・ラウド_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イン・ジス・ライフ",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/02_イン・ジス・ライフ_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラン・フォー・ユア・ライフ",
+      "artist": "Bad Wolves",
+      "has_synced": false,
+      "path": "select/03_ラン・フォー・ユア・ライフ_Bad_Wolves.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サークル・オブ・ライフ",
+      "artist": "Joi",
+      "has_synced": false,
+      "path": "select/04_サークル・オブ・ライフ_Joi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タイム・オブ・ユア・ライフ",
+      "artist": "ランディ・ニューマン",
+      "has_synced": true,
+      "path": "select/05_タイム・オブ・ユア・ライフ_ランディ・ニューマン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルード・ボーイ・フォー・ライフ",
+      "artist": "Skindred",
+      "has_synced": true,
+      "path": "select/06_ルード・ボーイ・フォー・ライフ_Skindred.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ライフ・イズ・ビューティフォー",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_ライフ・イズ・ビューティフォー_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ライフ・イズ・ビューティフォー (Life Is Beautiful)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/08_ライフ・イズ・ビューティフォー_(Life_Is_Beautiful)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スウィート・ライフ",
+      "artist": "フランク・オーシャン",
+      "has_synced": false,
+      "path": "select/09_スウィート・ライフ_フランク・オーシャン.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロールプレイング・ライフ",
+      "artist": "DOLL$BOXX",
+      "has_synced": true,
+      "path": "select/10_ロールプレイング・ライフ_DOLL$BOXX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ライフ",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/11_ライフ_ケツメイシ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ライフ・イズ・ミルフィーユ",
+      "artist": "BIGMAMA",
+      "has_synced": true,
+      "path": "select/12_ライフ・イズ・ミルフィーユ_BIGMAMA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ビバ・ラ・ライフ",
+      "artist": "Yonta's Music Journey",
+      "has_synced": false,
+      "path": "select/13_ビバ・ラ・ライフ_Yonta's_Music_Journey.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ライフ・イズ・ビューティフル",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/14_ライフ・イズ・ビューティフル_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ライフ",
+      "artist": "Ketsumeishi",
+      "has_synced": true,
+      "path": "select/15_ライフ_Ketsumeishi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "青春狂騒曲(ライブバージョン)",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/16_青春狂騒曲(ライブバージョン)_Sambomaster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライフ",
+      "artist": "MILGRAM ユノ (CV: 相坂優歌)",
+      "has_synced": false,
+      "path": "select/pl_01_ライフ_MILGRAM_ユノ_(CV__相坂優歌).txt"
+    }
+  ]
+}
